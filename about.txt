@@ -1,0 +1,2 @@
+my name is Godwin. I am learning Git.
+I enjoy coding and learning new things.
