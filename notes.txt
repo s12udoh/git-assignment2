@@ -1,1 +1,2 @@
 git helps track changes in projects.
+Git is very useful for teamwork.
